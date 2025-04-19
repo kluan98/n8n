@@ -20,7 +20,7 @@
 		"declaration": false,
 		"sourceMap": true,
 		"skipLibCheck": true,
-		"typeRoots": []
+		"typeRoots": ["./src/types"]
 	},
 	"files": ["../../../node_modules/jest-expect-message/types/index.d.ts"]
 }
